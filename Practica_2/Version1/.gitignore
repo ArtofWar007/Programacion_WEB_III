@@ -1,0 +1,18 @@
+# Dependencias de Node (Crucial)
+node_modules/
+
+# Variables de Entorno y Credenciales de Base de Datos
+.env
+.env.local
+
+# Logs del Servidor
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos del Sistema y Editores
+.vscode/
+.idea/
+.DS_Store
